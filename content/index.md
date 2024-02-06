@@ -1,4 +1,29 @@
-# Basic Roleplaying SRD
+---
+title: Basic Roleplaying SRD
+---
+[[01. Introduction]]
+
+[[02. Characters]]
+
+[[03. Skills]]  
+
+[[04. Powers]]
+
+[[05. System]]
+
+[[06. Combat]]
+
+[[07. Spot Rules]]
+
+[[08. Equipment]]
+
+[[09. Gamemastering]]
+
+[[10. Settings]]
+
+[[11. Creatures]]
+
+---
 
 [Basic Roleplaying: Universal Game Engine](https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/ "Basic Roleplaying: Universal Game Engine - PDF") has been released under the Open RPG Creative license (“ORC License”) for others to use. 
   
@@ -16,7 +41,3 @@ This product is licensed under the ORC License held in the License of Congress a
 This product is the original work of Chaosium.
 
 With a very few exceptions (trademarked terms), the text of BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE is available for personal and commercial use under the ORC license. 
-
----
-
-Based on Quartz: https://quartz.jzhao.xyz/
