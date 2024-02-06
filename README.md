@@ -20,3 +20,5 @@ With a very few exceptions (trademarked terms), the text of BASIC ROLEPLAYING: U
 ---
 
 Based on Quartz: https://quartz.jzhao.xyz/
+
+Compiled and formatted by Christopher Dimitrios: http://www.storieswithdice.com/
